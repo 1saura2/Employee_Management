@@ -30,7 +30,7 @@ Read: Show a paginated personnel list with search and filtering options.
 
 Update: Change employee information.
 
-Delete: Hard delete an employee and department.
+Delete: Delete an employee (soft delete)
 
 ## Department Management
 
