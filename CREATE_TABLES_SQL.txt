@@ -1,0 +1,66 @@
+IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = 'EmployeeManagementSystem')
+BEGIN
+    CREATE DATABASE EmployeeManagementSystem;
+    PRINT 'Database created successfully.';
+END
+GO
+
+
+USE [EmployeeManagementSystem]
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'Department')
+BEGIN
+
+CREATE TABLE [dbo].[Department](
+    [DepartmentId] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+    [DepartmentName] [nvarchar](50) NOT NULL
+);
+    PRINT 'Department table created successfully.';
+END
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'Employee')
+BEGIN
+    CREATE TABLE [dbo].[Employee](
+    [EmployeeId] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+    [DepartmentID] [int] NOT NULL,
+    [EmployeeName] [nvarchar](50) NOT NULL,
+    [Salary] [decimal](18, 2) NOT NULL,
+    [DateOfJoining] [datetime] NOT NULL,
+    [IsDeleted] [bit] NOT NULL DEFAULT 0,
+CONSTRAINT [FK_EmployeeDepartment_Department_DepartmentId] 
+        FOREIGN KEY ([DepartmentId])
+        REFERENCES [dbo].[Department] ([DepartmentId])
+);
+    PRINT 'Employee table created successfully.';
+END
+GO
+
+INSERT INTO [dbo].[Department] ([DepartmentName])
+VALUES 
+    ('Human Resources'),
+    ('Sales'),
+    ('Finance'),
+    ('IT'),
+    ('Marketing');
+GO
+INSERT INTO [dbo].[Employee] ([DepartmentId], [EmployeeName], [Salary], [DateOfJoining], [IsDeleted])
+VALUES
+    (1, 'Alice Johnson', 50000.00, '2020-01-15 09:00:00', 0),
+    (1, 'Bob Smith', 45000.00, '2019-03-22 08:45:00', 0),
+    (2, 'Charlie Brown', 60000.00, '2021-06-10 10:00:00', 0),
+    (2, 'David Lee', 55000.00, '2022-02-11 08:30:00', 0),
+    (3, 'Eva White', 70000.00, '2018-09-08 09:00:00', 0),
+    (3, 'Frank Green', 75000.00, '2017-11-25 11:15:00', 0),
+    (4, 'Grace Taylor', 80000.00, '2021-05-14 09:30:00', 0),
+    (4, 'Hank Harris', 85000.00, '2020-12-01 10:45:00', 0),
+    (5, 'Ivy Martin', 55000.00, '2021-08-20 08:00:00', 0),
+    (5, 'Jack Miller', 60000.00, '2022-01-12 09:00:00', 0),
+    (1, 'Kate Wilson', 52000.00, '2021-09-03 09:30:00', 0),
+    (2, 'Liam Moore', 64000.00, '2020-04-19 10:15:00', 0),
+    (3, 'Megan Clark', 69000.00, '2022-03-08 08:30:00', 0),
+    (4, 'Nina Adams', 78000.00, '2021-11-17 09:00:00', 0),
+    (5, 'Olivia Scott', 61000.00, '2020-07-15 10:00:00', 0);
+GO
+

@@ -1,0 +1,27 @@
+﻿@model EmployeeManagement.Models.Department
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Department Details</h1>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Department</h4>
+            <hr />
+
+            <dl class="row">
+                <dt class="col-sm-3">Department Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.DepartmentName)</dd>
+            </dl>
+
+            <div class="text-center">
+                <a asp-action="Edit" asp-route-id="@Model?.DepartmentId" class="btn btn-warning">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
+

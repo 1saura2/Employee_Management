@@ -1,0 +1,1202 @@
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.staticwebassets.runtime.json
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.staticwebassets.endpoints.json
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Dapper.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Humanizer.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Build.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.Common.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.CodeDom.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+E:\PROJECTS\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.staticwebassets.runtime.json
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Dapper.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Humanizer.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Build.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.Common.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.CodeDom.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\EMS\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+E:\EMS\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\appsettings.Development.json
+E:\EMS\Employee_Management\bin\Debug\net8.0\appsettings.json
+E:\EMS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.staticwebassets.runtime.json
+E:\EMS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.exe
+E:\EMS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.deps.json
+E:\EMS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+E:\EMS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.pdb
+E:\EMS\Employee_Management\bin\Debug\net8.0\Dapper.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Humanizer.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.Build.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.Common.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.CodeDom.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\EMS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets.build.json
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets.development.json
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\EMS\Employee_Management\obj\Debug\net8.0\staticwebassets.pack.json
+E:\EMS\Employee_Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EMS\Employee_Management\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\EMS\Employee_Management\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\EMS\Employee_Management\obj\Debug\net8.0\Employee.61744648.Up2Date
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.dll
+E:\EMS\Employee_Management\obj\Debug\net8.0\refint\EmployeeManagement.dll
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.pdb
+E:\EMS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+E:\EMS\Employee_Management\obj\Debug\net8.0\ref\EmployeeManagement.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\appsettings.json
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.staticwebassets.runtime.json
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.staticwebassets.endpoints.json
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.exe
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.deps.json
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Dapper.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\Employee.61744648.Up2Date
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\refint\EmployeeManagement.dll
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\Atul Baral\Downloads\Employee_Management\obj\Debug\net8.0\ref\EmployeeManagement.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\appsettings.Development.json
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\appsettings.json
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.staticwebassets.endpoints.json
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.staticwebassets.runtime.json
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.exe
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.deps.json
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\EmployeeManagement.pdb
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Dapper.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Humanizer.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.Build.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.Common.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.CodeDom.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\Employee_Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets.build.json
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets.development.json
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\Employee.61744648.Up2Date
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.dll
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\refint\EmployeeManagement.dll
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.pdb
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+E:\PROJECTS\Employee_Management\obj\Debug\net8.0\ref\EmployeeManagement.dll

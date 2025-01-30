@@ -1,0 +1,62 @@
+﻿@model EmployeeManagement.Models.Employee
+
+@* @{
+    ViewData["Title"] = "Edit";
+} *@
+
+<div class="container">
+    <h1 class="mt-4">Edit Employee</h1>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h4>Employee</h4>
+            <hr />
+
+            <form asp-action="Edit" method="post">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="EmployeeId" />
+
+                <div class="form-group">
+                    <label for="EmployeeName">Name</label>
+                    <input type="text" id="EmployeeName" name="EmployeeName" class="form-control" asp-for="EmployeeName" />
+                    <span asp-validation-for="EmployeeName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DepartmentId" class="control-label">Department:</label>
+                    <select asp-for="DepartmentId" class="form-control">
+                        <option value="">Select Department</option>
+                        @foreach (var dept in ViewBag.AllDepartments as List<EmployeeManagement.Models.Department>)
+                        {
+                            <option value="@dept.DepartmentId">@dept.DepartmentName</option>
+                        }
+                    </select>
+                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <label for="Salary">Salary</label>
+                    <input type="text" id="Salary" name="Salary" class="form-control" asp-for="Salary" />
+                    <span asp-validation-for="Salary" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="DateOfJoining">Date of Joining</label>
+                    <input type="date" id="DateOfJoining" name="DateOfJoining" class="form-control" asp-for="DateOfJoining" />
+                    <span asp-validation-for="DateOfJoining" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <p>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </p>
+        </div>
+    </div>
+</div>
